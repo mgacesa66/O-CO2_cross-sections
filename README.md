@@ -1,5 +1,5 @@
 # O-CO2_cross-sections
-Raw data and codes used in "O(3P)+CO2 scattering cross sections at superthermal collision energies for planetary aeronomy" publication.
+Raw data and codes used in M. Gacesa, R. J. Lillis, and K. J. Zahnle, "O(3P)+CO2 scattering cross sections at superthermal collision energies for planetary aeronomy" (submitted to J. Geophys. Res. Planets, 2019) publication.
 
 Structure:
 -----------
