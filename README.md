@@ -1,7 +1,7 @@
-# O-CO2_cross-sections
-Raw data and codes used in M. Gacesa, R. J. Lillis, and K. J. Zahnle, "O(3P)+CO2 scattering cross sections at superthermal collision energies for planetary aeronomy" (submitted to J. Geophys. Res. Planets, 2019) publication.
+# O-CO2_cross-sections - data only
+Raw data and codes used in M. Gacesa, R. J. Lillis, and K. J. Zahnle, "O(3P)+CO2 scattering cross sections at superthermal collision energies for planetary aeronomy" (https://arxiv.org/abs/1906.11368) publication.
 
-These files are distributed under GNU General Public License v3.0 and include NO liability or warranty of any kind. No support is provided by the authors. We cannot promise (but we may try!) to answer any questions related to this dataset nor to prepare different products for you.
+The files are distributed under GNU General Public License v3.0 and include NO liability or warranty of any kind. No support is provided by the authors. We cannot promise (but we may try!) to answer any questions related to this dataset nor to prepare different data products for you.
 
 Please cite this work as:
 Marko Gacesa, Lillis, Robert J., & Zahnle, Kevin J. (2019). O(3P)+CO_2 scattering cross sections at superthermal collision energies for planetary aeronomy: Raw data pre-release (Version v0.9-beta) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3256699
